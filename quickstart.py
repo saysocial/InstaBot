@@ -1,6 +1,6 @@
 from instapy import InstaPy
 
-session = InstaPy(username='ombajans', password='karatas35.')
+session = InstaPy(username='', password='')
 
 session.login()
 
